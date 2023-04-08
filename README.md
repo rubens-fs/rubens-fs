@@ -1,5 +1,11 @@
 ## Hello world! I'm front-end developer!
-<div>
+<div class="image-banner">
+  <img src="https://i.ibb.co/5k8ny2S/Design-sem-nome.gif" alt="Cyberpunk Banner"/>
+</div>
+
+  #
+
+<div class="about-me">
   <p>Although I have a Bachelor's degree in Geography, with the encouragement of my programmer friends, I decided to research more about this vast field and fell in love with coding.
   <p>I decided to connect an existing passion in my life (computers) with my newest passion, programming, and it was a perfect match.
   <p>After almost a year of self-studying, I decided to further improve my skills and started my degree in Analysis and Systems Development. 
@@ -30,7 +36,7 @@
 
   #
 
-<div> 
+<div class="social"> 
 
   <a href="https://www.linkedin.com/in/rubens-fs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rubensfs_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
