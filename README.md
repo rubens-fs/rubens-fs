@@ -5,14 +5,18 @@
 
   #
 
-<div class="about-me">
-  <p>Although I have a Bachelor's degree in Geography, with the encouragement of my programmer friends, I decided to research more about this vast field and fell in love with coding.
-  <p>I decided to connect an existing passion in my life (computers) with my newest passion, programming, and it was a perfect match.
-  <p>After almost a year of self-studying, I decided to further improve my skills and started my degree in Analysis and Systems Development. 
-  <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I am studying React, Node, and TS.
-  </p>
-  <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
-</div>
+<table>
+  <tr>
+    <td>
+      <p>Although I have a Bachelor's degree in Geography, with the encouragement of my programmer friends, I decided to research more about this vast field and fell in love with coding.</p>
+      <p>I decided to connect an existing passion in my life (computers) with my newest passion, programming, and it was a perfect match.</p>
+      <p>After almost a year of self-studying, I decided to further improve my skills and started my degree in Analysis and Systems Development.</p>
+      <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I am studying React, Node, and TS.</p>
+      <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
+    </td>
+    <td><img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA5NWY3MmFhMGVmYzZjMDFlOTk3ODg3ZDljZjY3NTllNzI5ODA5ZCZjdD1n/2eKfFHjb30D9tDdJ59/giphy.gif"></td>
+  </tr>
+</table>
 
   #
 
@@ -36,11 +40,9 @@
 
   #
 
-<div class="social"> 
-
+<div class="social" align="left"> 
   <a href="https://www.linkedin.com/in/rubens-fs/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/rubensfs_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/rubensfs_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.twitch.tv/ruiytv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- 
 </div>
