@@ -1,6 +1,6 @@
 ## Hello world! I'm front-end developer!
 <div class="image-banner">
-  <img src="https://i.ibb.co/5k8ny2S/Design-sem-nome.gif" alt="Cyberpunk Banner"/>
+  <img src="https://i.imgur.com/ESXSmUX.gif" alt="Cyberpunk Banner"/>
 </div>
 
   #
