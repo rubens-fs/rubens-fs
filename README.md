@@ -1,6 +1,6 @@
 ## Hello world! I'm front-end developer!
-<div class="image-banner">
-  <img src="https://i.imgur.com/ESXSmUX.gif" alt="Cyberpunk Banner"/>
+<div class="image-banner" >
+  <img src="https://i.imgur.com/PNZGX6L.gif" alt="Cyberpunk Banner" width="100%"/>
 </div>
 
   #
@@ -14,7 +14,7 @@
       <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I am studying React, Node, and TS.</p>
       <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
     </td>
-    <td><img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTA5NWY3MmFhMGVmYzZjMDFlOTk3ODg3ZDljZjY3NTllNzI5ODA5ZCZjdD1n/2eKfFHjb30D9tDdJ59/giphy.gif"></td>
+    <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyNDk1M2ZjYTA0YmU3ODZjMzc2OGY3OWMxYThmZjU1OWQzOWFlZCZjdD1n/ayBZf3xVtT74Q/giphy.gif"></td>
   </tr>
 </table>
 
