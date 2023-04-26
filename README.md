@@ -1,24 +1,5 @@
 ## Hello world! I'm a front-end developer!
-<div class="image-banner">
-  <img src="https://i.imgur.com/PNZGX6L.gif" width="100%"/>
-</div>
-
-  #
-
-<table>
-  <tr>
-    <td>
-      <p>Although I have a Bachelor's degree in Geography, with the encouragement of my programmer friends, I decided to research more about this vast field and fell in love with coding.</p>
-      <p>I decided to connect an existing passion in my life (computers) with my newest passion, programming, and it was a perfect match.</p>
-      <p>After almost a year of self-studying, I decided to further improve my skills and started my degree in Analysis and Systems Development.</p>
-      <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I am studying React, Node, and TS.</p>
-      <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
-    </td>
-    <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyNDk1M2ZjYTA0YmU3ODZjMzc2OGY3OWMxYThmZjU1OWQzOWFlZCZjdD1n/ayBZf3xVtT74Q/giphy.gif"></td>
-  </tr>
-</table>
-
-  #
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/rubens-fs">
@@ -38,6 +19,21 @@
   <img align="center" alt="BootStrap Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 
+<br>
+
+<table>
+  <tr>
+    <td>
+      <p>With a Bachelor's degree in Geography under my belt, I delved deeper into the world of programming at the urging of my friends in the field. It didn't take long for me to realize that I had fallen in love with coding.</p>
+      <p>Blending my pre-existing passion for computers with this newfound love of programming proved to be the perfect match for me.</p>
+      <p>After almost a year of intensive self-study, I resolved to further enhance my skills and embarked upon a degree in Analysis and Systems Development.</p>
+      <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I'm now studying React, Node, and TS to further hone my expertise.</p>
+      <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
+    </td>
+    <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyNDk1M2ZjYTA0YmU3ODZjMzc2OGY3OWMxYThmZjU1OWQzOWFlZCZjdD1n/ayBZf3xVtT74Q/giphy.gif"></td>
+  </tr>
+</table>
+  
   #
 
 <div class="social" align="left"> 
