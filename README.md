@@ -30,7 +30,7 @@
       <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I'm now studying React, Node, and TS to further hone my expertise.</p>
       <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
     </td>
-    <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyNDk1M2ZjYTA0YmU3ODZjMzc2OGY3OWMxYThmZjU1OWQzOWFlZCZjdD1n/ayBZf3xVtT74Q/giphy.gif"></td>
+    <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlY2IzNThhNWEzNDkyYmEzYTAxYWMwOTNmYjEwNzk1NGVjMTRjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yALcFbrKshfoY/giphy.gif"></td>
   </tr>
 </table>
   
