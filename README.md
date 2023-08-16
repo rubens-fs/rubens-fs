@@ -25,7 +25,8 @@
 <table>
   <tr>
     <td>
-      <p> I bring 10 years of computer software trouble shooting experience. After my first degree, I made a career transition to Front-End Development. Currently a Front-End Developer with a passion for Salesforce, and I stream live daily on Twitch. My specialties include: HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS; currently focusing on enhancing basic skills in React.</p>
+      <p> I bring 10 years of computer software trouble shooting experience. After my first degree, I made a career transition to Front-End Development. Currently a Front-End Developer with a passion for Salesforce, and I stream live daily on Twitch.</p>
+      <p>My specialties include: HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS; currently focusing on enhancing basic skills in React.</p>
       <p>Additionally, I possess knowledge in other tools such as C, Python, MySQL, NPM/Yarn, Git, and GitHub.</p>
       <p>I also have experience with the Salesforce platform, specifically with the Salesforce Experience Cloud and Salesforce Marketing Cloud Admin.</p>
       <p>Currently pursuing a degree in Systems Analysis and Development, expected to be completed by 2024.3.</p>
