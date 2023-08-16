@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td>
-      <p>With a Bachelor's degree in Geography under my belt, I delved deeper into the world of programming at the urging of my friends in the field. It didn't take long for me to realize that I had fallen in love with coding.</p>
-      <p>Blending my pre-existing passion for computers with this newfound love of programming proved to be the perfect match for me.</p>
-      <p>After almost a year of intensive self-study, I resolved to further enhance my skills and embarked upon a degree in Analysis and Systems Development.</p>
-      <p>Currently, with consolidated knowledge in HTML, CSS, and JS, I'm now studying React, Node, and TS to further hone my expertise.</p>
+      <p> I bring 10 years of computer software trouble shooting experience. After my first degree, I made a career transition to Front-End Development. Currently a Front-End Developer with a passion for Salesforce, and I stream live daily on Twitch. My specialties include: HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS; currently focusing on enhancing basic skills in React.</p>
+      <p>Additionally, I possess knowledge in other tools such as C, Python, MySQL, NPM/Yarn, Git, and GitHub.</p>
+      <p>I also have experience with the Salesforce platform, specifically with the Salesforce Experience Cloud and Salesforce Marketing Cloud Admin.</p>
+      <p>Currently pursuing a degree in Systems Analysis and Development, expected to be completed by 2024.3.</p>
       <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
     </td>
     <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlY2IzNThhNWEzNDkyYmEzYTAxYWMwOTNmYjEwNzk1NGVjMTRjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yALcFbrKshfoY/giphy.gif"></td>
