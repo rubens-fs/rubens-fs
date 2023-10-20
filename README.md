@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://github.com/rubens-fs">
+  <a href="https://github.com/rubens-fs"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubens-fs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-fs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
