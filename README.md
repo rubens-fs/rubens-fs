@@ -11,7 +11,7 @@
   <img align="center" alt="CSS Icon" width="40" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS Icon" width="40" height="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BootStrap Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Tailwind Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="SASS Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="MySQL Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Salesforce Icon" width="40" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
@@ -26,11 +26,11 @@
 <table>
   <tr>
     <td>
-      <p> I bring 10 years of computer software trouble shooting experience. After my first degree, I made a career transition to Front-End Development. Currently a Front-End Developer with a passion for Salesforce, and I stream live daily on Twitch.</p>
-      <p>My specialties include: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS and SASS; currently focusing on enhancing basic skills in React.</p>
-      <p>Additionally, I possess knowledge in other tools such as C, Python, MySQL, NPM/Yarn, Git, and GitHub.</p>
-      <p>I also have experience with the Salesforce platform, specifically with the Salesforce Experience Cloud and Salesforce Marketing Cloud Admin.</p>
-      <p>Currently pursuing a degree in Systems Analysis and Development, expected to be completed by 2024.3.</p>
+      <p>I am a professional with over 10 years of experience in technical support and problem-solving, who transitioned into Front-end Development and, subsequently, into the Salesforce ecosystem. I hold a degree in Systems Analysis and Development (2025).</p>
+      <p>During the period I worked as a Front-end Developer, I acquired and solidified my knowledge in HTML, CSS, JS, Bootstrap, SASS, Tailwind CSS, and React. I am also familiar with C, Python, MySQL, Git, and GitHub. Currently, I focus my development on Salesforce Experience Cloud and Marketing Cloud.</p>
+      <p>I am seeking opportunities that allow me to apply and expand my knowledge across Salesforce platforms, with an emphasis on Experience Cloud and Marketing Cloud, though not limited to them. My Front-end background enhances interface customization and solution-building within the Salesforce ecosystem.</p>
+      <p>I am open to opportunities in Fortaleza, remote positions across Brazil, and roles in Portuguese- or English-speaking countries. Let’s connect and discuss how I can contribute to your team.</p>
+      <p>Graduated in Systems Analysis and Development (2025).</p>
       <blockquote>"The programmers of tomorrow are the wizards of the future." - Gabe Newell</blockquote>
     </td>
     <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlY2IzNThhNWEzNDkyYmEzYTAxYWMwOTNmYjEwNzk1NGVjMTRjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yALcFbrKshfoY/giphy.gif"></td>
