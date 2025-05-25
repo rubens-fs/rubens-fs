@@ -1,4 +1,4 @@
-## Hello world! I'm a front-end developer!
+## Hello world! I'm a Salesforce developer with a background in Front-end development.
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">
